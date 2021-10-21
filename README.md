@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @ausbradr
+- 🏠 Sydney, Australia 🇦🇺
+- 👄 English, lite svensk, unde ein bisschen Deutsch
 - 👀 I’m interested in Linux/Arduino/Raspberry Pi/Embedded systems.
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on anything fun really
